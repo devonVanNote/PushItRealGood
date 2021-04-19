@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PushItRealGood/static/css/main.553653f5.chunk.css",
-    "main.js": "/PushItRealGood/static/js/main.a029dab8.chunk.js",
-    "main.js.map": "/PushItRealGood/static/js/main.a029dab8.chunk.js.map",
+    "main.css": "/PushItRealGood/static/css/main.93868ebf.chunk.css",
+    "main.js": "/PushItRealGood/static/js/main.2656c468.chunk.js",
+    "main.js.map": "/PushItRealGood/static/js/main.2656c468.chunk.js.map",
     "runtime-main.js": "/PushItRealGood/static/js/runtime-main.457b4d07.js",
     "runtime-main.js.map": "/PushItRealGood/static/js/runtime-main.457b4d07.js.map",
     "static/css/2.bfd3d39e.chunk.css": "/PushItRealGood/static/css/2.bfd3d39e.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.b9e47fac.chunk.js.map": "/PushItRealGood/static/js/2.b9e47fac.chunk.js.map",
     "index.html": "/PushItRealGood/index.html",
     "static/css/2.bfd3d39e.chunk.css.map": "/PushItRealGood/static/css/2.bfd3d39e.chunk.css.map",
-    "static/css/main.553653f5.chunk.css.map": "/PushItRealGood/static/css/main.553653f5.chunk.css.map",
+    "static/css/main.93868ebf.chunk.css.map": "/PushItRealGood/static/css/main.93868ebf.chunk.css.map",
     "static/js/2.b9e47fac.chunk.js.LICENSE.txt": "/PushItRealGood/static/js/2.b9e47fac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.457b4d07.js",
     "static/css/2.bfd3d39e.chunk.css",
     "static/js/2.b9e47fac.chunk.js",
-    "static/css/main.553653f5.chunk.css",
-    "static/js/main.a029dab8.chunk.js"
+    "static/css/main.93868ebf.chunk.css",
+    "static/js/main.2656c468.chunk.js"
   ]
 }
